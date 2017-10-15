@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<class>
+	<!--  Elements must stay in this order! -->
+	<property Name="serverPort">10000</property>
+	<property Name="serverName">localhost</property>
+	<property Name="registryPort">1099</property>
+	<property Name="wordsFileName">Words.txt</property>
+	<property Name="startingMulticastPort">10101</property>
+	<property Name="maxMulticastPort">15000</property>
+	<property Name="multicastAddress">224.0.0.4</property>
+	<property Name="udpPort">10002</property>
+	<property Name="StateFileName">ServerState.xml</property>
+</class>

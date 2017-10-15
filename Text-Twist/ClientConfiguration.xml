@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<class>
+	<!--  Elements must stay in this order! -->
+	<property tagName="serverAddress">localhost</property>
+	<property tagName="registryPort">1099</property>
+	<property tagName="tcpPort">10000</property>
+	<property tagName="updPort">10002</property>
+	<property tagName="multicastAddress">224.0.0.4</property>
+	
+</class>
